@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 800px;
-    width: 485px;
+    width: 470px;
     
 
 }
@@ -89,7 +89,7 @@ body{
     box-shadow: 3px 3px 3px 5px black;
 }
 .conteiner2{
-    background: rgb(55, 102, 88);
+    
     margin: 2px;
     width: 490px;
     height: 55px;
