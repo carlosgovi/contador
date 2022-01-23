@@ -109,16 +109,26 @@ body{
     background: #996b4c ;
     border-radius: 4px;
     box-shadow: 2px 2px 2px 2px black;
+    
 }
 #resslp{
     background-color: rgba(19, 81, 110, 0.5);
-    margin-left: 10px;
-    margin-top: 10px;
+    margin: 10px;
     color: rgb(230, 230, 230);
     font-size: 30px;
     border-radius: 5px;
     width: 60px;
     height: 30px;
+}
+.imgfinal{
+    
+    width: 100px;
+    height: 70px;
+    background: url(imgfinal4.gif);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
 }
 #by{
     color: rgb(154, 154, 163);
