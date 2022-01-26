@@ -48,7 +48,7 @@ body{
     border-radius: 10px;
     box-shadow: 3px 3px 3px 5px black;
 }
-.aumentar{
+.aumentar,.resetear,.disminuir,.siguiente{
     font-size: 1em;
     color: rgb(230, 230, 230);
     background: #996b4c ;
@@ -58,36 +58,8 @@ body{
     border-radius: 10px;
     box-shadow: 3px 3px 3px 5px black;
 }
-.resetear{
-    font-size: 1em;
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    padding: 25px;
-    margin: 5px;
-    border-style: solid 1px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px 5px black;
-}
-.disminuir{
-    font-size: 1em;
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    padding: 25px;
-    margin: 5px;
-    border-style: solid 1px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px 5px black;
-}
-.siguiente{
-    font-size: 1em;
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    padding: 25px;
-    margin: 5px;
-    border-style: solid 1px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px 5px black;
-}
+
+
 .conteiner2{
     
     margin: 2px;
