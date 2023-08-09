@@ -1,109 +1,116 @@
-body{  
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: url(fondo.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    
-
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background: url(fondo.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
-.conteiner{
-    display: flex;
-    flex-direction: column ;
-    justify-content: center;
-    align-items: center;
-    height: 650px;
-    width: 470px;
-    
-
+.conteiner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 650px;
+  width: 470px;
 }
 
-.valor #valor{
-    background-color: rgb(31, 84, 116);
-    background: #996b4c ;
-    background: url('energy1.svg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 2.3cm;
-    font-size: 1em;
-    padding: 25px;
-    margin: 5px;
-    border-style: solid 1px;
-    border-radius: 10px;
-    font-size: 2cm;
-    color: rgb(230, 230, 230);
-    box-shadow: 3px 3px 3px 5px black;
-    
-    
+.valor #valor {
+  background-color: rgb(53, 142, 197);
+  background: #996b4c;
+  background: url("energy1.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 2.3cm;
+  font-size: 1em;
+  padding: 25px;
+  margin: 5px;
+  border-style: solid 1px;
+  border-radius: 10px;
+  font-size: 2cm;
+  color: rgb(230, 230, 230);
+  box-shadow: 3px 3px 3px 5px black;
 }
-.raund #raund{
-    font-size: 2em;
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    padding: 25px;
-    margin-bottom:5px ;
-    border-style: solid 1px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px 5px black;
+.raund #raund {
+  font-size: 2em;
+  color: rgb(230, 230, 230);
+  background: #996b4c;
+  padding: 25px;
+  margin-bottom: 5px;
+  border-style: solid 1px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 5px black;
 }
-.aumentar,.resetear,.disminuir,.siguiente{
-    font-size: 1em;
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    padding: 25px;
-    margin: 5px;
-    border-style: solid 1px;
-    border-radius: 10px;
-    box-shadow: 3px 3px 3px 5px black;
+.aumentar,
+.resetear,
+.disminuir,
+.siguiente {
+  font-size: 1em;
+  color: rgb(230, 230, 230);
+  background: #996b4c;
+  padding: 25px;
+  margin: 5px;
+  border-style: solid 1px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 5px black;
 }
 
-
-.conteiner2{
-    
-    margin: 2px;
-    width: 490px;
-    height: 55px;
-    
-    
+.conteiner2 {
+  margin: 2px;
+  width: 490px;
+  height: 55px;
 }
-#btn2{
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    border-radius: 5px;
-    text-align: center;
-    box-shadow: 2px 2px 2px 5px black;
-    
+#btn2 {
+  color: rgb(230, 230, 230);
+  background: #996b4c;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 2px 2px 2px 5px black;
 }
-#selec1 ,#selec2,#selec3,#selec4,#selec5,#selec6,#selec7,#selec8,#selec9,#selec10,#selec11,#selec12,#selec13,#selec14,#selec15,#selec16,#selec17,#selec18,#selec19,#selec20{
-    color: rgb(230, 230, 230);
-    background: #996b4c ;
-    border-radius: 4px;
-    box-shadow: 2px 2px 2px 2px black;
-    
+#selec1,
+#selec2,
+#selec3,
+#selec4,
+#selec5,
+#selec6,
+#selec7,
+#selec8,
+#selec9,
+#selec10,
+#selec11,
+#selec12,
+#selec13,
+#selec14,
+#selec15,
+#selec16,
+#selec17,
+#selec18,
+#selec19,
+#selec20 {
+  color: rgb(230, 230, 230);
+  background: #996b4c;
+  border-radius: 4px;
+  box-shadow: 2px 2px 2px 2px black;
 }
-#resslp{
-    background-color: rgba(19, 81, 110, 0.5);
-    margin: 10px;
-    color: rgb(230, 230, 230);
-    font-size: 30px;
-    border-radius: 5px;
-    width: 60px;
-    height: 30px;
+#resslp {
+  background-color: rgba(19, 81, 110, 0.5);
+  margin: 10px;
+  color: rgb(230, 230, 230);
+  font-size: 30px;
+  border-radius: 5px;
+  width: 60px;
+  height: 30px;
 }
-.imgfinal{
-    
-    width: 100px;
-    height: 70px;
-    background: url(imgfinal4.gif);
-    background-size: 70%;
-    background-repeat: no-repeat;
-    background-position: center;
-    
+.imgfinal {
+  width: 100px;
+  height: 70px;
+  background: url(imgfinal4.gif);
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
-#by{
-    color: rgb(154, 154, 163);
-    font-size: 10px;
-    
+#by {
+  color: rgb(154, 154, 163);
+  font-size: 10px;
 }
